@@ -1,0 +1,16 @@
+first : 
+all data base options :
+
+Second :
+we should create folder for classes  
+-- class Request so that use functions to deal with data in SUPER GLOBAL POST,GET (($_POST,$_GET))
+-- class Session so that use functions to deal with data in SUPER GLOBAL SESSION (($_SESSION))
+-- claas called DB to deal with all dataBase queries ex connect,selectall,insert ...
+
+
+
+addCart :
+i need to add the choosen product in a assocative array in session 
+first > i need to send data from product.php to add-cart.php 
+second > i need to make 
+
